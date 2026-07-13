@@ -1,0 +1,14 @@
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/tsconfig.tsbuildinfo
+
+# Backend
+backend/build/
+backend/rust_ingestor/target/
+backend/market_xray
+
+# General
+.DS_Store
+Thumbs.db
+*.log
